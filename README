@@ -1,2 +1,17 @@
 After having a hard time finding nice firefox extesion plugin samples, i got this working and decided to document it so you can to it yourself.
 The nice about this plugin / extension is that it will load jqyery into the js and make it avaliable.
+
+INSTALLATION
+
+to create a new .xpi package, just:
+
+  $ sh build
+
+then install via firefox (select file):
+
+  LinkTargetFinder.xpi
+
+
+AUTHOR
+
+  Hernan Lopes
