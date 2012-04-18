@@ -1,0 +1,2 @@
+rm LinkTargetFinder.xpi
+zip -r LinkTargetFinder.xpi *
